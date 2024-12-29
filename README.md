@@ -1,6 +1,6 @@
 # 忍者云cloud官网地址
 
-最新地址：[renzhe.cloud](https://renzhe.cloud/auth/register?code=P3Je)
+最新地址：[renzhe.cloud](https://renzhe.cloud/auth/register?code=Fez3)
 
 > 打不开请使用代理
 
